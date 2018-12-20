@@ -1,6 +1,7 @@
 # lyas #
 
 Welcome to lyas!
+https://www.youtube.com/watch?v=ryxrWVI3PMA
 
 ## Contribution policy ##
 
